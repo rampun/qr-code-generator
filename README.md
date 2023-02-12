@@ -42,7 +42,7 @@ def generate_qrcode(source):
 
 ## How to run the program
 ```python
-python3 filename.py
+python3 app.py
 ```
 
 ## License
