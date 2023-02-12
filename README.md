@@ -44,6 +44,10 @@ def generate_qrcode(source):
 ```python
 python3 app.py
 ```
+Deactivate virtual environment by simply running the below command
+```python
+deactivate
+```
 
 ## License
 
